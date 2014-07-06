@@ -1,0 +1,15 @@
+{
+    "name": "chef-swap",
+    "description": "swap configure",
+    "maintainer": "Jerry",
+    "maintainer_email": "jerrery520@gmail.com",
+    "recommendations": {},
+    "suggestions": {},
+    "conflicting": {},
+    "providing": {},
+    "replacing": {},
+    "attributes": {},
+    "groupings": {},
+    "recipes": {},
+    "version": "0.0.1"
+}
