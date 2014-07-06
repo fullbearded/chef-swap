@@ -13,7 +13,7 @@ chef-swap
     },
     "json_class": "Chef::Role",
     "run_list": [
-        "recipe[swap]"
+        "recipe[chef-swap]"
     ],
     "chef_type": "role",
     "override_attributes": {
